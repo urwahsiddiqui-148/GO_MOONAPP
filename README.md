@@ -1,5 +1,16 @@
-# GO_MOONAPP
-**OVERVIEW:**
+# gomoonapp1
 
-This is simple single screen beautiful flutter UI app. used the concept of the statless widgets. created the three dropdown button. one for selection of travel destination, one for the travelling category, one for the nuber of passengers. Also a book a rode button to book a ride. This is just basic statless widgets practice concept. LET'S BOOK A RIDE TO MOON 😊
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
