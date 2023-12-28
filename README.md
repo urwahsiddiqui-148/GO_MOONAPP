@@ -1,6 +1,6 @@
 # gomoonapp1
 
-A new Flutter project. used the concept of statless widgets. With three dropdown menu button . and a button to book a rid. this is just practice code of singlw scren beautiful ui in flutter framwork. 
+A new Flutter project. used the concept of stateless widgets. With three dropdown menu button . And a button to book a rid. This is just practice code of single screen beautiful UI in flutter framwork. 
 
 ## Getting Started
 
